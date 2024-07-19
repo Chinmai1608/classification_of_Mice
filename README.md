@@ -1,4 +1,7 @@
 ## Evoastra Ventures
+![image](https://github.com/user-attachments/assets/af86c526-71ba-41e9-9cc1-7d0adc66ac3f)
+
+
 Data Science Internsip Project 
 # Classification of Mice Based on Protein Expression Levels
 ### Problem Statement
