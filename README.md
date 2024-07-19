@@ -17,41 +17,24 @@ Dataset Description
 The dataset consists of the expression levels of 77 proteins/protein modifications measured in the nuclear fraction of the cerebral cortex in mice. The data is collected from both control mice and trisomic (Down syndrome) mice, subjected to a context fear conditioning task to assess associative learning.
 
 Dataset Characteristics:
-
     Type: Multivariate
-
     Subject Area: Biology
-
     Associated Tasks: Classification, Clustering
-
     Feature Type: Real
-
     Instances: 1080
-
-    Features: 80
+Features: 80
 
 Breakdown:
-
     Mice Classes: 8 (based on genotype, behavior, and treatment)
-
     Control Mice:
-
-    c-CS-s: Control, Stimulated, Saline (9 mice)
-
+*     c-CS-s: Control, Stimulated, Saline (9 mice)
     c-CS-m: Control, Stimulated, Memantine (10 mice)
-
     c-SC-s: Control, Not Stimulated, Saline (9 mice)
-
     c-SC-m: Control, Not Stimulated, Memantine (10 mice)
-
     Trisomic Mice:
-
     t-CS-s: Trisomic, Stimulated, Saline (7 mice)
-
     t-CS-m: Trisomic, Stimulated, Memantine (9 mice)
-
     t-SC-s: Trisomic, Not Stimulated, Saline (9 mice)
-
     t-SC-m: Trisomic, Not Stimulated, Memantine (9 mice)
 
 Details:
